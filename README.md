@@ -17,3 +17,14 @@ The **Fastest TikTok Username Checker** is a high-speed, multi-threaded tool des
 3. The script will check usernames and display their availability.  
 
 🔹 Perfect for securing rare usernames before anyone else! 🔥
+
+
+### ⚠️ Disclaimer:  
+
+This tool is **strictly for educational and testing purposes only**. It is designed to help users check the availability of TikTok usernames responsibly. **Misuse of this tool for unauthorized activities, such as automated account creation or violating TikTok’s Terms of Service, is strictly prohibited.**  
+
+By using this script, you agree that you are solely responsible for any actions taken and any consequences that may arise. The developer holds no liability for misuse or any legal issues resulting from improper use.  
+
+**Use it ethically and within legal boundaries!** 🚀
+
+dev- https://t.me/Temuworkerhere
